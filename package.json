@@ -22,6 +22,9 @@
     "socket.io": "^1.3.6",
     "spawn-async": "0.0.1"
   },
+  "scripts": {
+    "start": "node server.js"
+  },
   "devDependencies": {
     "should": "~7.1.0",
     "mocha": "~2.3.3",
